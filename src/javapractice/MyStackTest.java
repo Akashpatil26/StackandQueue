@@ -18,6 +18,5 @@ public class MyStackTest {
         INode peak =myStack.peak();
         Assert.assertEquals(myThirdNode,peak);
 
-
     }
 }
